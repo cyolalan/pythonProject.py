@@ -1,0 +1,5 @@
+yas = input('Your Age : ')
+if yas<"18":
+      print("Your age is not suitable for obtaining a driver's license")
+else:
+      print("Your age is suitable for obtaining a driver's license")
